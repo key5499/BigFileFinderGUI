@@ -1,6 +1,7 @@
 # DiskSpaceAnalyzer
 
 一个功能强大的磁盘空间分析工具，帮助您快速找出占用大量磁盘空间的文件和文件夹，方便进行磁盘清理和空间管理。
+![截图](https://github.com/key5499/BigFileFinderGUI/blob/main/QQ20251216-101641.png)
 
 ## ✨ 功能特性
 
