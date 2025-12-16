@@ -1,4 +1,4 @@
-# DiskSpaceAnalyzer
+# BigFileFinderGUI
 
 一个功能强大的磁盘空间分析工具，帮助您快速找出占用大量磁盘空间的文件和文件夹，方便进行磁盘清理和空间管理。
 ![截图](https://github.com/key5499/BigFileFinderGUI/blob/main/QQ20251216-101641.png)
@@ -46,8 +46,8 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone https://github.com/yourusername/DiskSpaceAnalyzer.git
-   cd DiskSpaceAnalyzer
+   git clone https://github.com/key5499/BigFileFinderGUI.git
+   cd BigFileFinderGUI
    ```
 
 2. **安装依赖**
@@ -95,7 +95,7 @@
 ## 📁 项目结构
 
 ```
-DiskSpaceAnalyzer/
+BigFileFinderGUI/
 ├── Find.py              # 主程序文件
 ├── requirements.txt      # 依赖列表
 └── README.md            # 项目文档
